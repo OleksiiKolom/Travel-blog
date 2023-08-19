@@ -7,5 +7,5 @@
   відносних одиниць щодо відступів і шрифтів
 </p>
 <h3>Результати</h3>
-<img src="Screenshots/Screenshot_1.png" alt="Скріншот результату">
-<img src="Screenshots/Screenshot_2.png" alt="Скріншот результату">
+<img src="screenshots/Screenshot_1.png" alt="Скріншот результату">
+<img src="screenshots/Screenshot_2.png" alt="Скріншот результату">
